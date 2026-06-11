@@ -1,3 +1,9 @@
+🚀 Live Demo
+
+Visit the live application: [Multi-Agent AI Content Studio](https://content-studio-zpv3q2nc3q-uc.a.run.app/)
+
+Enter a topic, target audience, tone, and keywords to see the agent team generate a complete content package in real-time.
+
 🎬 Multi-Agent AI Content Studio
 
 Live Demo(https://img.shields.io/badge/Live_Demo-View_App-blue?style=flat-square&logo=google-cloud)](https://content-studio-zpv3q2nc3q-uc.a.run.app/)
