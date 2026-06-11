@@ -1,6 +1,8 @@
 🎬 Multi-Agent AI Content Studio
 
 Live Demo(https://img.shields.io/badge/Live_Demo-View_App-blue?style=flat-square&logo=google-cloud)](https://content-studio-zpv3q2nc3q-uc.a.run.app/)
+
+
 Made with Google ADK(https://img.shields.io/badge/Built%20with-Google%20ADK-4285F4?style=flat-square&logo=google)](https://github.com/google/adk-python)
 
 Live Application: [content-studio-zpv3q2nc3q-uc.a.run.app](https://content-studio-zpv3q2nc3q-uc.a.run.app/)
