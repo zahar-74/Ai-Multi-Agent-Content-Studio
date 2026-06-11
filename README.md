@@ -13,6 +13,9 @@ An AI-powered content creation platform where 9 specialized agents collaborate t
 
 The multi-agent workflow is composed of three distinct phases:
 User Request
+
+
+
 │
 ▼
 ┌────────────────────────────────────────────┐
@@ -20,6 +23,9 @@ User Request
 │ ├── Topic Research Agent (Google Search) │
 │ └── Content Drafter Agent │
 └────────────────────────────────────────────┘
+
+
+
 │
 ▼
 ┌────────────────────────────────────────────┐
@@ -27,6 +33,10 @@ User Request
 │ ├── Quality Checker Agent │
 │ └── Content Improver Agent │
 └────────────────────────────────────────────┘
+
+
+
+
 │
 ▼
 ┌────────────────────────────────────────────┐
@@ -36,6 +46,9 @@ User Request
 │ ├── Email Newsletter Writer Agent │
 │ └── SEO Metadata Agent │
 └────────────────────────────────────────────┘
+
+
+
 │
 ▼
 Output Package (4 assets)
